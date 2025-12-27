@@ -1,21 +1,25 @@
-<<<<<<< HEAD
-# personal_finance_investment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Personal-Finance-and-Micro-investment-Tracker-App
-This mobile app is created using Flutter and Dart. This app mainly focuses on managing your savings and expenses and also you can consult with other consultants as a user to manage finances and also can take guide from them about the investment opportunities  which you can also check on the app. Hope you love it!!! 
->>>>>>> 46510719d8c9c5a23349829337aac03eaa29d7b8
+
+![Flutter](https://img.shields.io/badge/Flutter-v3.13-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+A Flutter mobile app to help users **track personal finances, manage micro-investments**, and **consult with financial experts**. Users can monitor expenses, savings, and investment opportunities efficiently.
+
+---
+
+
+## Features
+- Track daily income and expenses
+- Manage savings and micro-investments
+- Consult with financial advisors
+- View analytics and reports
+- Secure user authentication and data management
+
+
+---
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/Personal-Finance-and-Micro-investment-Tracker-App.git
